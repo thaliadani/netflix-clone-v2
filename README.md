@@ -13,6 +13,6 @@
 
 <div align="center">
 
-
+https://github.com/thaliadani/netflix-clone-v2/assets/31187727/1cea359b-409d-4509-b795-8e32a5f33d46
 
 </div>
