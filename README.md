@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/31187727/223227733-35593c64-d7bd-43f9-b483-1e7a64a599bb.svg" width="350px" height="100px">
+<a src="https://netflix-clone-v2-eight.vercel.app/"><img src="https://user-images.githubusercontent.com/31187727/223227733-35593c64-d7bd-43f9-b483-1e7a64a599bb.svg" width="350px" height="100px"></a>
 
 </div><h1></h1><br>
 
