@@ -6,13 +6,13 @@
 
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/SCSS-239120?&style=for-the-badge&labelColor=ff69b4&color=ff69b4&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/SCSS-239120?&style=for-the-badge&labelColor=ff69b4&color=ff69b4&logo=sass&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
 
 <div align="center">
 
-https://user-images.githubusercontent.com/31187727/223228850-b16bbc58-14aa-4513-a464-ebd2cad236ff.mp4
+https://github.com/thaliadani/netflix-clone-v2/assets/31187727/1cea359b-409d-4509-b795-8e32a5f33d46
 
 </div>
